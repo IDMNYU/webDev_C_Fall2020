@@ -16,6 +16,7 @@ Course Wiki: https://github.com/IDMNYU/webDev_C_Fall2020/wiki
 Basic computer knowledge. Familiarity with programming is preferred but not required.
 
 #### [Course Schedule](schedule.md)
+#### [Course Syllabus](week01/DM-UY_2193_C_F2020_Leopold.pdf)
 
 #### Course Description:
 This course is an introduction to viewer (client) side programming. The semester is scheduled in sequence to enable incremental understanding and application of best practices for authoring the web. This course will provide a basic understanding of the methods and techniques of developing a simple to moderately complex front end site. Students will create and maintain websites that take into consideration aesthetic quality, user experience and technical expertise. Participants will explore granular techniques for design and programming using: HTML5, CSS3, EcmaScript6 and various external libraries.
