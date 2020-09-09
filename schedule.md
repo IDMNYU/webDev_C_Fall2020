@@ -8,11 +8,13 @@
 
 ##### [Week 2 - Wednesday September 9](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-02)
 * No class Monday - Wenesday runs on a Monday schedule
+* #ScholarStrike 
 * Discuss Ways of Seeing 
 * Intro to HTML
-* Intro to Unix + the Command Line
+
 
 ##### [Week 3 - September 14 + 16](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-03)
+* Intro to Unix + the Command Line
 * Git and Git Pages
 
 ##### [Week 4 - September 21 + 23](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-04)
