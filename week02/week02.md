@@ -1,6 +1,10 @@
 ###### VSC Instllation Tutorial
 * [Dan Shiffman's Coding Train](https://www.youtube.com/watch?v=yJw0SyKO9IU)
 
+###### Further Reading
+* [The Work of Art in the Age of Mechanical Reproduction - Walter Benjamin, 1935](https://web.mit.edu/allanmc/www/benjamin.pdf)
+* [Ways of Seeing - John Berger, 1972](http://waysofseeingwaysofseeing.com/ways-of-seeing-john-berger-5.7.pdf)
+
 ###### Basic Web Info
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 
