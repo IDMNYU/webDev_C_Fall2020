@@ -1,0 +1,77 @@
+body {
+ background-color: pink;
+ /* this is a comment in CSS. A human can read it but the browser can not */
+ /* font-family: Courier New; */
+ /* the following line of code will not work without the Google font API */
+ font-family: 'Nunito', sans-serif;
+
+}
+h3 {
+ font-size: 50px;
+ text-decoration: line-through;
+}
+
+#thebuttons {
+ background-color:rgb(100,100,100);
+ margin: 5vh;
+ padding: 10px;
+
+}
+button {
+ padding: 40px;
+ border: solid 10px;
+ border-radius: 55px;
+ background-color: rgba(0,0,255);
+ margin: 50px;
+}
+
+button:hover{
+ background-color: rgb(170, 170, 170);
+}
+
+/* this grabs the id "theAuthor" paragraph from the html */
+/* what happens if you comment out these two lines of CSS? */
+#theAuthor {
+ background-color:rgb(255, 255, 6);
+ color: rgba(255,0,0);
+ padding: 50px;
+
+}
+
+/* these lines will style any links on the page */
+a {
+ font-size: 36px;
+ text-decoration: none;
+}
+
+a:visited {
+ color: rgba(0,255,0);
+}
+
+a:hover {
+ color: rgb(100,0,100);
+ font-size: 56px;
+}
+
+/* this styles all the paragraphs */
+p {
+ background-color: rgb(255,255,255);
+ padding: 10vh;
+ border: solid black 20px;
+ margin: 20vw;
+}
+/* this styles only the class of "theDots" paragraphs */
+.theDots {
+ font-weight: bold;
+ border-radius: 25px;
+ border: dotted 10px;
+}
+
+footer {
+ background-color: rgb(0,0,0);
+ text-align: center;
+ padding: 4vh;
+
+}
+
+
