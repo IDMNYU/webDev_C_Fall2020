@@ -1,6 +1,5 @@
 ##### [Chrome Dev Tools Console Ref](https://developers.google.com/web/tools/chrome-devtools/console/reference)
 
-
 ### Intro CSS
  * [CSS Syntax Validation](https://jigsaw.w3.org/css-validator/#validate_by_uri)
  * [MDN Intro CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)

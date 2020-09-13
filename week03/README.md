@@ -2,11 +2,8 @@
 ##### Git!!
 * [Installing Git](https://git-scm.com/downloads)
 * [Creating SSH Key](week03.md)
-### Once we install Git, generate an SSH key and learn a few git commands we will publish our website! We will work together in groups to help one another out. 
-* [Installing Git](https://git-scm.com/downloads)
 * [Github Pages](https://pages.github.com/)
 
-* [Github Pages](https://pages.github.com/)
 * [Html atttribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
 #### File Paths continued
