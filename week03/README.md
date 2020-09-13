@@ -4,12 +4,11 @@
 * [Creating SSH Key](week03.md)
 * [Github Pages](https://pages.github.com/)
 
-* [Html atttribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
-
 #### File Paths continued
 * [Absolute vs. Relative](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
 
 #### More HTML 5
+* [Html atttribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [MDN article tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
 * [MDN section tag ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
 * [MDN header tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
