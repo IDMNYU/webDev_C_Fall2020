@@ -9,17 +9,24 @@
 ##### [Week 2 - Wednesday September 9](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-02)
 * No class Monday - Wenesday runs on a Monday schedule
 * #ScholarStrike 
-* Discuss Ways of Seeing 
 * Intro to HTML
 
 
 ##### [Week 3 - September 14 + 16](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-03)
+* Discuss Ways of Seeing
 * Intro to Unix + the Command Line
-* Git and Git Pages
 
 ##### [Week 4 - September 21 + 23](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-04)
+* Git and Git Pages
 * Intro to CSS
 * HTML Box Model
-* Selfie Sites
 
-##### [Week 5 - September 28 + October 1](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-05)
+
+##### [Week 5 - September 28 + September 30](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-05)
+* Design Thinking Studio + Presentations
+
+##### [Week 6 - October 5 + 7](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/Week-06)
+* Intro to Net.Art
+* Responsive Web 
+  * Flex Display
+  * Grid Display
