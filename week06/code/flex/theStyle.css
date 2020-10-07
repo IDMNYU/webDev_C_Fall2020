@@ -13,7 +13,7 @@ body{
 
 }
 img {
-  width: 20vw;
+  /* width: 20vw; */
   display:block;
 }
 
@@ -40,7 +40,7 @@ p {
   /* height: 100px; */
   display: flex;
   flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
 
 }
 
