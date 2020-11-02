@@ -1,0 +1,15 @@
+div {
+ display: flex;
+}
+button {
+ padding: 200px;
+ border-radius: 250px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+
+button:hover {
+ background-color: rgb(255,0,0);
+ border: 5px solid rgb(0,0,0);
+}
