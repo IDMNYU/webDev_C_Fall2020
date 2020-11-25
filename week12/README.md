@@ -9,7 +9,7 @@
 * [Boostrap colors](https://mdbootstrap.com/docs/jquery/css/colors/)
 * [W3 Bootstrap colors](https://www.w3schools.com/bootstrap4/bootstrap_colors.asp)
 * [Bootstrap themes](https://bootstrap.themes.guide/)
-* [Bootswarch](https://bootswatch.com/)
+* [Bootswarch](https://bootswatch.com/)z
 
 ###### Other JS Libraries
 * [p5.js](https://p5js.org/) - creative code using canvas
