@@ -24,9 +24,9 @@ if ("geolocation" in navigator) {
 
 navigator.geolocation.getCurrentPosition(function(thePosition){
   console.log(thePosition.coords.latitude, thePosition.coords.longitude)
-  // theLat = thePosition.coords.latitude;
-  // theLong = thePosition.coords.longitude;
-  // theURL = theURL + theLong + "," + theLat
+  theLat = thePosition.coords.latitude;
+  theLong = thePosition.coords.longitude;
+  theURL = theURL + theLong + "," + theLat
 })
 
 if (!navigator.mediaDevices || !navigator.mediaDevices.enumerateDevices) {
@@ -35,28 +35,28 @@ if (!navigator.mediaDevices || !navigator.mediaDevices.enumerateDevices) {
 }
 
 // LIST cameras + mics
-// navigator.mediaDevices.enumerateDevices().then(function(devices){
-//   devices.forEach(function(device){
-//     console.log(device.kind + ": " + device.label + " id = " + device.deviceId);
-//   });
-// }).catch(function(err) {
-//   conssole.log(err.name + ": " + err.message);
-// });
+navigator.mediaDevices.enumerateDevices().then(function(devices){
+  devices.forEach(function(device){
+    console.log(device.kind + ": " + device.label + " id = " + device.deviceId);
+  });
+}).catch(function(err) {
+  conssole.log(err.name + ": " + err.message);
+});
 
-// var constraints = {
-//   audio: false,
-//   video: {
-//     width: 720,
-//     height: 360
-//   }
-// }
+var constraints = {
+  audio: false,
+  video: {
+    width: 720,
+    height: 360
+  }
+}
 
-// navigator.mediaDevices.getUserMedia(constraints).then(function(mediaStream) {
-//   var theVideo = document.querySelector('video');
-//   theVideo.srcObject = mediaStream;
-//   theVideo.onloadedmetadata = function(e){
-//     theVideo.play();
-//   };
-// }).catch(function(err){
-//   console.log(err.name + ": " + err.message);
-// })
+navigator.mediaDevices.getUserMedia(constraints).then(function(mediaStream) {
+  var theVideo = document.querySelector('video');
+  theVideo.srcObject = mediaStream;
+  theVideo.onloadedmetadata = function(e){
+    theVideo.play();
+  };
+}).catch(function(err){
+  console.log(err.name + ": " + err.message);
+})
