@@ -19,6 +19,7 @@ This should be a portfolio piece you can refer to after you graduate to showcase
 * Thoughtful + Appealing Design
 * Posted to Your github Server
 
-Monday December 7 - User Testing 
-Wednesday December 9 - Final Critique
-Sunday December 13 @ 11:59pm - Final Project Due [here](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/***-Final-Projects)
+##### Schedule
+* Monday December 7 - User Testing 
+* Wednesday December 9 - Final Critique
+* Sunday December 13 @ 11:59pm - Final Project Due [here](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/***-Final-Projects)
